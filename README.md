@@ -2,7 +2,7 @@
 
 I focus on the intersection of Artificial Intelligence and physical systems. My work prioritizes performance, algorithmic efficiency, and real-world application of Computer Vision.
 
-[![Orkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrkhanEyvazov1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrkhanEyvazov1&show_icons=true&theme=tokyonight)
 ---
 
 ### 🛠 Technical Arsenal
