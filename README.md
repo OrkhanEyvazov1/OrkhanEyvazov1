@@ -2,8 +2,6 @@
 
 I focus on the intersection of Artificial Intelligence and physical systems. My work prioritizes performance, algorithmic efficiency, and real-world application of Computer Vision.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrkhanEyvazov1&show_icons=true&theme=tokyonight)
----
 
 ### 🛠 Technical Arsenal
 
@@ -19,3 +17,6 @@ I focus on the intersection of Artificial Intelligence and physical systems. My 
 I am currently implementing and optimizing algorithms in C++ to understand the low-level mechanics behind high-level abstractions.
 * **Data Structures:** Custom implementations of Stacks, Queues, and Graphs.
 * **Linear Algebra:** Matrix operations for 3D transformation and rendering.
+
+### 📊 GitHub Analytics
+[![Orkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrkhanEyvazov1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
