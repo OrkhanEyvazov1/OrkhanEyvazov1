@@ -1,16 +1,21 @@
-## Hi there 👋
+### 🤖 Computer Vision & Robotics Engineer
 
-<!--
-**OrkhanEyvazov1/OrkhanEyvazov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on the intersection of Artificial Intelligence and physical systems. My work prioritizes performance, algorithmic efficiency, and real-world application of Computer Vision.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Arsenal
+
+| Domain | Tools & Languages |
+| :--- | :--- |
+| **Core** | Python, C++ (STL, Memory Management) |
+| **Computer Vision** | OpenCV, YOLOv8/NAS, Image Processing |
+| **Machine Learning** | PyTorch, NumPy, Scikit-learn |
+
+---
+
+### 📉 Mathematics & Algorithms
+I am currently implementing and optimizing algorithms in C++ to understand the low-level mechanics behind high-level abstractions.
+* **Data Structures:** Custom implementations of Stacks, Queues, and Graphs.
+* **Linear Algebra:** Matrix operations for 3D transformation and rendering.
