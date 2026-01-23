@@ -1,6 +1,10 @@
 ### 🤖 Computer Vision & ML Engineer
 
-I focus on the intersection of Artificial Intelligence and physical systems. My work prioritizes performance, algorithmic efficiency, and real-world application of Computer Vision.
+Currently building the "Iron Foundation" of AI engineering—transitioning from model-centric research to scalable system design. I am a life-long learner focused on bringing software engineering rigor to AI through strict data validation and state-driven orchestration.
+
+
+Philosophy: AI is a software engineering problem; building the system is as important as the model.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orxaneyvazov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:orkhanai@proton.me) 
