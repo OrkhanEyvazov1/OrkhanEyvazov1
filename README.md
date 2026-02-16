@@ -3,7 +3,7 @@
 Currently building the "Iron Foundation" of AI engineering—transitioning from model-centric research to scalable system design. I am a life-long learner focused on bringing software engineering rigor to AI through strict data validation and state-driven orchestration.
 
 
-Philosophy: AI is a software engineering problem; building the system is as important as the model.
+AI is a software engineering problem; building the system is as important as the model.
 
 
 ## 🌐 Socials:
